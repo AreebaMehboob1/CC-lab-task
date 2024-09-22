@@ -1,1 +1,1 @@
-# CC-lab-task
+# CC-lab-assignment 1
